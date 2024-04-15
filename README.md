@@ -7,3 +7,4 @@ Open AI API sometimes generates gibberish sometimes on first run through, and oc
 $ npm run dev
 
 - Created with Next.js, React, and OpenAI, NPM package axios
+
